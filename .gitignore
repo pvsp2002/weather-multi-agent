@@ -1,0 +1,5 @@
+.env
+weather_reports/
+notebooks/
+__pycache__/
+*.pyc
